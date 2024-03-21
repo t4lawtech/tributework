@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url(muhammad1.jpg) center center/cover no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #840606;
+    opacity: 0.8;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+.poem {
+    text-align: center;
+    margin-top: 30px;
+    color: #555;
+}
+.arabic-name {
+    margin-top: 30px;
+    text-align: center;
+}
+.arabic-name img {
+    width: 100px;
+    height: auto;
+}
